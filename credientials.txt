@@ -1,0 +1,4 @@
+username : kcsaiganesh
+password : zgA7WBpR0EnH1L9M
+mongodb server : mongodb+srv://kcsaiganesh:zgA7WBpR0EnH1L9M@clustercsep.6h7hb4u.mongodb.net/?retryWrites=true&w=majority
+googleapikey: AIzaSyA5Su0iH3lJIlWDUhstDyvK-jBsPmB590E
